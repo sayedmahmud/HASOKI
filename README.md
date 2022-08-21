@@ -68,22 +68,10 @@
  - Next Update SLOWREAD method (SOON...)
 ```
 
+Thread set 10-50 = OK!
+
 ## Usage
 ```sh
-You must use Python 3.9 or higher
-DOWNLOAD:  git clone https://github.com/cutipu/HASOKI.git
-INSTALL: - python setup.py install or python3 setup.py install
-         - with pip:
-           pip3 install -r requirements.txt  or  pip install -r requirements.txt
-NOTICE: For bypass work need install lastest verion Chrome
- - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
- - apt-get install ./google-chrome-stable_current_amd64.deb
- Thread set 10-50 > work
+git clone https://github.com/lucthienphong1120/HASOKI
+python3 setup.py install # or pip3 install -r requirements.txt
 ```
-
-## Contact Developer
-```sh
- Buy Me a Coffee BTC: 34zoKEUcZ42mKEUc1gB836k9puQ1MiugNr
- Need private proxy,socks5 : https://t.me/rebychubx
-```
-
